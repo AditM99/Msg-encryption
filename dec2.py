@@ -1,4 +1,4 @@
-# SCRAMBLE - Adit
+# SCRAMBLE
 
 import cv2
 import numpy as np
