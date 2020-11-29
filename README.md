@@ -1,2 +1,2 @@
 # Msg-encryption
-Encrypt and Decrypt message and meta data of image 
+building a secure way of encoding and compressing images andadding metadata that can be decryped only using secure key 
